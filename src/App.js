@@ -46,6 +46,7 @@ class VariableGrid extends React.Component {
           pension_income: {2020: null},
           income_tax: {2020: null},
           NI: {2020: null},
+          personal_allowance: {2020: null},
           taxable_income: {2020: null},
           taxable_income_deductions: {2020: null},
           total_tax: {2020: null},
